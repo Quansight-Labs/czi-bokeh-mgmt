@@ -23,11 +23,10 @@ main work items or missions.
 
 These have been identified with the following `mission: *` labels:
 
-<!-- TODO: add link to mission issues -->
-* [`mission: accessibility ♿️`](https://github.com/Quansight-Labs/czi-bokeh-mgmt/issues?q=label:%22mission:+accessibility+%E2%99%BF%EF%B8%8F%22+): [Auditing and extending core plotting functions to include accessibility affordances]
-* [`mission: theming 🪄`](https://github.com/Quansight-Labs/czi-bokeh-mgmt/issues?q=sort:updated-desc+is:open+label:%22mission:+theming+%F0%9F%AA%84%22): [Refactor the theme and styling systems]
-* [`mission: i18n 💬`](https://github.com/Quansight-Labs/czi-bokeh-mgmt/issues?q=sort:updated-desc+is:open+label:%22mission:+i18n+%F0%9F%92%AC%22): [Internationalization and translation improvements]
-* [`mission: maintenance 🌱`](https://github.com/Quansight-Labs/czi-bokeh-mgmt/issues?q=+label:%22mission:+maintenance+%F0%9F%8C%B1%22+): [Dedicated testing, communication, and continued maintenance]
+* [`mission: accessibility ♿️`](https://github.com/Quansight-Labs/czi-bokeh-mgmt/issues?q=label:%22mission:+accessibility+%E2%99%BF%EF%B8%8F%22+): [Auditing and extending core plotting functions to include accessibility affordances](https://github.com/Quansight-Labs/czi-bokeh-mgmt/issues/1)
+* [`mission: theming 🪄`](https://github.com/Quansight-Labs/czi-bokeh-mgmt/issues?q=sort:updated-desc+is:open+label:%22mission:+theming+%F0%9F%AA%84%22): [Refactor the theme and styling systems](https://github.com/Quansight-Labs/czi-bokeh-mgmt/issues/2)
+* [`mission: i18n 💬`](https://github.com/Quansight-Labs/czi-bokeh-mgmt/issues?q=sort:updated-desc+is:open+label:%22mission:+i18n+%F0%9F%92%AC%22): [Internationalization and translation improvements](https://github.com/Quansight-Labs/czi-bokeh-mgmt/issues/3)
+* [`mission: maintenance 🌱`](https://github.com/Quansight-Labs/czi-bokeh-mgmt/issues?q=+label:%22mission:+maintenance+%F0%9F%8C%B1%22+): [Dedicated testing, communication, and continued maintenance](https://github.com/Quansight-Labs/czi-bokeh-mgmt/issues/4)
 
 You can also follow the progress of the tasks on the [GitHub project board](https://github.com/orgs/Quansight-Labs/projects/20) 🗂️.
 
