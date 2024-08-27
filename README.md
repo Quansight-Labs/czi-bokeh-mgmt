@@ -55,11 +55,3 @@ Meeting notes are publicly available under the [`meeting-notes/`](meeting-notes/
 ## Acknowledgements 🤝
 
 This is a project generously funded by the [CZI Science EOSS](https://chanzuckerberg.com/eoss/) program (Cycle 6)
-
-<!-- TODO link to proposal -->
-
-Other resources:
-
-- [Quansight Labs blog post](https://labs.quansight.org/blog/quansight-labs-awarded-three-czi-eoss-cycle5-grants)
-
-[event]: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MmNtamlhZ2Y1ZHZpY2ZzY2dwaG81M3U5MjZfMjAyMzAyMjhUMTQwMDAwWiBqcm9kcmlndWV6QHF1YW5zaWdodC5jb20&tmsrc=jrodriguez%40quansight.com&scp=ALL
